@@ -13,7 +13,4 @@ I'm Davey van den Bogaard, a Full Stack Developer :rocket: from the Netherlands.
     <a href="https://www.linkedin.com/in/daveyvandenbogaard/">
     <img align="left" alt="Davey's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
-    <a href="https://www.twitter.com/doeby/">
-    <img align="left" alt="Davey's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-    </a>
 </p>
