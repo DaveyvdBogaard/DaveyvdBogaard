@@ -4,9 +4,8 @@ I'm Davey van den Bogaard, a Full Stack Developer :rocket: from the Netherlands.
 <br />
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-  
-**Some personal stuff:**
 
+**Some personal stuff:**
 - 🧑‍💻 I’m currently working at [HappyGreen](https://happy.green);
 - 🌱 I’m currently learning PHP & React Native; 
 - 💬 Ask me about anything, I am happy to help;
