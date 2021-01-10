@@ -1,6 +1,8 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Davey van den Bogaard, a Full Stack Developer :rocket: from the Netherlands.
 
+<br />
+
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
 **Some personal stuff:**
