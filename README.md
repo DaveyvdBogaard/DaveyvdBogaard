@@ -1,19 +1,16 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- <a href="https://www.linkedin.com/in/daveyvandenbogaard/">
-  <img align="left" alt="Davey's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+#### I'm Davey van den Bogaard, a Full Stack Developer :rocket: from the Netherlands.
+-----
 
-I'm Davey van den Bogaard, a Full Stack Developer :rocket: from the Netherlands.
-<br />
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
 **Some personal stuff:**
 
 - 👨🏽‍💻 I’m currently working at [HappyGreen](https://happy.green);
-- 🌱 I’m currently learning to PHP & React Native; 
+- 🌱 I’m currently learning PHP & React Native; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:
-<p>
+- <p>
     <a href="https://www.linkedin.com/in/daveyvandenbogaard/">
     <img align="left" alt="Davey's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
@@ -22,10 +19,8 @@ I'm Davey van den Bogaard, a Full Stack Developer :rocket: from the Netherlands.
     </a>
 </p>
 
-<br />
-<br />
-<br />
-<br />
+**💻Languages and Tools**
+
 
 **📈 My GitHub Stats**
 
